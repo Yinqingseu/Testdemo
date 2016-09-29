@@ -6,3 +6,5 @@ method()
 {
 	print "fdsafsd"
 }
+adsfsafc
+phph
